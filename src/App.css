@@ -1,0 +1,129 @@
+.main_div{
+
+border: #6782aa  ;
+border-width: 0 px;
+border-style: dotted;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color:rgb(103, 130,170)   ;
+
+}
+
+.input_n{
+margin-left: 20px;
+margin-top: 30px;;
+padding:8px;
+display:inline-block;
+border:none;
+border-bottom:3px solid rgb(135,108,169);
+text-align: center;
+background-color: #fefbd8;
+font-size: medium ;
+font-weight: bold;
+width: 180px;
+background: transparent;
+outline: none;
+color: rgb(135,108,169);
+}
+.inside_div{
+
+display: inline-block;
+
+
+
+
+
+}
+.btn_{
+
+    border-radius: 50%;
+    border-color:rgb(135,108,169) ;
+   background-color:rgb(135,108,169);
+   color: white;
+   height: 50px;
+   width: 50px;
+   margin-top: 20px;
+   margin-left: 10px;
+font-size: 40px;
+box-shadow:5px 5px 15px -5px rgb(0, 0, 0,0.3);
+outline: none;
+  
+
+
+}
+
+.btn_:hover {
+    opacity: 0.8;
+  }
+  
+
+.center_div{
+/* 
+    border:darkblue;
+    border-width: 5 px;
+    border-style: solid; */
+    margin: 100px 5px 150px 500px ; 
+        height:450px;
+    width: 300px;
+    background-color: #fefbd8;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 1px;    
+}
+::placeholder{
+    opacity: 0.5;
+}
+    .header_div{
+
+        /* border: crimson;
+        border-width: 5 px;
+        border-style: solid; */
+        height:20px;
+        background-color:rgb(135,108,169);
+        padding-top: 10px;
+        text-align: center;
+        padding-top: 0px;
+        margin-top: 20px;
+        padding-bottom: 20px;
+        font:monospace;
+        color: white;
+        }
+.listnew{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+    color: rgb(135,108,169);
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bolder;
+
+}
+
+
+
+.cross{
+
+display: inline-block;
+border-radius: 50%;
+    border-color:rgb(135,108,169) ;
+   background-color:rgb(135,108,169);
+   color: white;
+   height: 30px;
+   width: 30px;
+   margin-top: 20px;
+   margin-left: 10px;
+font-size: 10px;
+box-shadow:5px 5px 15px -5px rgb(0, 0, 0,0.3);
+outline: none;
+  font-family: cursive;
+  font-weight: bolder;
+
+}
+.li{
+    display: inline-block;
+}
+.cross:hover{
+
+    background: red;
+}
